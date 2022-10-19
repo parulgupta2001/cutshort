@@ -1,4 +1,3 @@
-import style from "./stepOne.module.css";
 import { useNavigate, useOutletContext } from "react-router-dom";
 
 export const StepOne = () => {
